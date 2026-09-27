@@ -1,0 +1,15 @@
+{
+	"name": "nidevadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d881824-2c8e-4373-93a1-59dec752f1d7",
+		"tenantId": "8101f78e-09e1-4103-abc9-45ceb941257c"
+	}
+}
